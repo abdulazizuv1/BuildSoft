@@ -1,0 +1,32 @@
+// Recommended Firestore Security Rules for BuildSoft
+// Copy these rules into your Firebase Console → Firestore → Rules
+
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ===== PROJECTS =====
+    // Each project has a unique UID (auto-generated doc ID)
+    // - Anyone can CREATE a project (even anonymous/unregistered users)
+    // - Owner (uid) can read/update/delete their own projects
+    // - Unregistered projects (ownerUid == null) can be claimed later
+    match /projects/{projectId} {
+      allow create: if true;
+      allow read: if request.auth != null
+                  && resource.data.ownerUid == request.auth.uid;
+      allow update: if request.auth != null
+                    && (resource.data.ownerUid == request.auth.uid
+                        || resource.data.ownerUid == null);
+      allow delete: if request.auth != null
+                    && resource.data.ownerUid == request.auth.uid;
+    }
+
+    // ===== PARTNERSHIP INQUIRIES =====
+    // Anyone can create; only admins should read (handled server-side)
+    match /partnership_inquiries/{docId} {
+      allow create: if true;
+      allow read, update, delete: if false;
+    }
+  }
+}

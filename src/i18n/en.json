@@ -1,0 +1,199 @@
+{
+  "nav": {
+    "home": "Home",
+    "contract": "Contract",
+    "partnership": "Partnership",
+    "about": "About Us",
+    "login": "Login",
+    "signup": "Sign Up",
+    "createProject": "Create Project",
+    "logout": "Logout"
+  },
+  "hero": {
+    "title": "BuildSoft",
+    "subtitle": "Building homes — simple, transparent, and under control.",
+    "cta": "Create Project"
+  },
+  "advantages": {
+    "sectionTitle": "Our Advantages",
+    "transparency": {
+      "title": "Full Transparency",
+      "desc": "Real-time updated estimates with detailed cost breakdown for every material, labor, and phase."
+    },
+    "monitoring": {
+      "title": "Real-Time Monitoring",
+      "desc": "Track construction progress, deadlines, and budgets from anywhere with photo reports."
+    },
+    "protection": {
+      "title": "Financial Protection",
+      "desc": "Escrow payment system ensures money is released only after work is verified and approved."
+    },
+    "constructor": {
+      "title": "Smart Constructor",
+      "desc": "Choose your parameters and get an instant 3D visualization with a detailed cost estimate."
+    },
+    "optimization": {
+      "title": "AI Cost Optimization",
+      "desc": "Artificial intelligence detects overspending risks and suggests optimizations."
+    },
+    "postConstruction": {
+      "title": "Post-Construction Services",
+      "desc": "Interior design, furniture, insurance, and ongoing home maintenance — all in one platform."
+    }
+  },
+  "partners": {
+    "sectionTitle": "Our Partners",
+    "subtitle": "Trusted companies we work with"
+  },
+  "footer": {
+    "description": "A digital platform for private home construction covering the full cycle from idea to key handover.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "rights": "© 2026 BuildSoft. All rights reserved."
+  },
+  "contract": {
+    "title": "Contract Documentation",
+    "subtitle": "Everything you need to know about how BuildSoft contracts work",
+    "howItWorks": "How It Works",
+    "step1Title": "Project Agreement",
+    "step1Desc": "Once you select a contractor, a digital contract is formed directly on the platform with clear terms, milestones, and deadlines.",
+    "step2Title": "Milestone-Based Payments",
+    "step2Desc": "Payments are divided into construction phases. Funds are held in escrow and released only after each phase is verified.",
+    "step3Title": "Quality Assurance",
+    "step3Desc": "Independent technical inspectors verify each construction phase before payment release.",
+    "step4Title": "Dispute Resolution",
+    "step4Desc": "BuildSoft acts as a neutral mediator. Automated penalty clauses and compensation models protect both parties.",
+    "protection": "Your Protection",
+    "escrowTitle": "Escrow Payments",
+    "escrowDesc": "Your money is held securely until work is confirmed. No advance payments to unverified contractors.",
+    "penaltyTitle": "Automated Penalties",
+    "penaltyDesc": "Delays and deviations trigger automatic penalty clauses defined in the contract.",
+    "warrantyTitle": "Quality Warranty",
+    "warrantyDesc": "Construction quality is backed by warranty periods defined in every contract.",
+    "compensationTitle": "Delay Compensation",
+    "compensationDesc": "If deadlines are missed, compensation models kick in automatically to protect your investment."
+  },
+  "partnership": {
+    "title": "Partnership",
+    "subtitle": "Join BuildSoft as a trusted construction partner",
+    "whyPartner": "Why Partner With Us?",
+    "benefit1Title": "Steady Order Flow",
+    "benefit1Desc": "Access a constant stream of verified clients looking for reliable construction services.",
+    "benefit2Title": "Clear Technical Specs",
+    "benefit2Desc": "Every project comes with detailed technical requirements — no ambiguity.",
+    "benefit3Title": "Fast Milestone Payments",
+    "benefit3Desc": "Get paid promptly after each verified construction phase via our escrow system.",
+    "benefit4Title": "Build Your Reputation",
+    "benefit4Desc": "Earn ratings and reviews that attract more clients through our transparent rating system.",
+    "formTitle": "Get In Touch",
+    "companyName": "Company Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "message": "Tell us about your company",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully! We'll get back to you soon.",
+    "error": "Failed to send message. Please try again."
+  },
+  "about": {
+    "title": "About BuildSoft",
+    "subtitle": "Transforming how homes are built",
+    "missionTitle": "Our Mission",
+    "missionDesc": "To make home building as simple and understandable as booking a taxi or buying an airline ticket. We bring full transparency, real-time control, and financial security to private construction.",
+    "storyTitle": "Our Story",
+    "storyDesc": "Every year, thousands of families start building a home. And almost all of them face the same problems: prices increase during construction, there's no clear estimate, deadlines are delayed, and the final result doesn't match expectations. BuildSoft was created to solve these problems once and for all.",
+    "values": "Our Values",
+    "value1Title": "Transparency",
+    "value1Desc": "Every cost, every stage, every material — visible and trackable.",
+    "value2Title": "Control",
+    "value2Desc": "Real-time monitoring of your project from anywhere in the world.",
+    "value3Title": "Protection",
+    "value3Desc": "Financial safeguards that protect both homeowners and contractors.",
+    "value4Title": "Innovation",
+    "value4Desc": "AI-powered optimization and smart home construction technology.",
+    "statsTitle": "BuildSoft in Numbers",
+    "stat1": "Projects Managed",
+    "stat2": "Verified Contractors",
+    "stat3": "Cost Savings",
+    "stat4": "Client Satisfaction"
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "loginSubtitle": "Sign in to manage your projects",
+    "signupTitle": "Create Account",
+    "signupSubtitle": "Start building your dream home",
+    "email": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "loginBtn": "Sign In",
+    "signupBtn": "Create Account",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "orContinue": "or continue with",
+    "forgotPassword": "Forgot password?"
+  },
+  "createProject": {
+    "title": "Create Your Dream Home",
+    "subtitle": "Tell us what you want and we'll bring it to life",
+    "howItWorks": "How It Works",
+    "step1": "Describe your preferences",
+    "step2": "Get an instant 3D preview",
+    "step3": "View detailed cost estimate",
+    "step4": "Connect with verified contractors",
+    "formTitle": "Your Preferences",
+    "area": "Area (sq.m)",
+    "floors": "Number of Floors",
+    "style": "Architecture Style",
+    "styles": {
+      "modern": "Modern",
+      "classic": "Classic",
+      "minimalist": "Minimalist",
+      "traditional": "Traditional"
+    },
+    "materials": "Building Materials",
+    "materialOptions": {
+      "brick": "Brick",
+      "concrete": "Reinforced Concrete",
+      "wood": "Wood",
+      "steel": "Steel Frame"
+    },
+    "foundation": "Foundation Type",
+    "foundationOptions": {
+      "slab": "Slab Foundation",
+      "strip": "Strip Foundation",
+      "pile": "Pile Foundation"
+    },
+    "familySize": "Family Members",
+    "energyClass": "Energy Efficiency",
+    "energyOptions": {
+      "standard": "Standard",
+      "efficient": "Energy Efficient",
+      "passive": "Passive House"
+    },
+    "additionalNotes": "Additional Notes",
+    "submit": "Generate 3D Preview",
+    "submitting": "Generating..."
+  },
+  "dashboard": {
+    "title": "Project Dashboard",
+    "subtitle": "Track your home construction progress",
+    "viewer3d": "3D House Preview",
+    "projectOverview": "Project Overview",
+    "estimatedCost": "Estimated Cost",
+    "timeline": "Timeline",
+    "area": "Total Area",
+    "floors": "Floors",
+    "phases": "Construction Phases",
+    "phase1": "Foundation",
+    "phase2": "Walls & Frame",
+    "phase3": "Roof",
+    "phase4": "Engineering Systems",
+    "phase5": "Interior Finishing",
+    "budget": "Budget Tracker",
+    "planned": "Planned",
+    "actual": "Actual",
+    "months": "months"
+  }
+}

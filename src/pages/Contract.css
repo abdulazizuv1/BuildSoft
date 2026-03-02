@@ -1,0 +1,150 @@
+.contract-page {
+  padding-top: var(--navbar-height);
+}
+
+.contract-hero {
+  background: var(--gradient-primary);
+  padding: 80px 20px 60px;
+  text-align: center;
+}
+
+.contract-hero__title {
+  font-size: var(--font-size-4xl);
+  font-weight: 800;
+  color: white;
+  margin-bottom: 12px;
+}
+
+.contract-hero__subtitle {
+  font-size: var(--font-size-lg);
+  color: rgba(255, 255, 255, 0.7);
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Steps */
+.contract-steps {
+  background: var(--color-surface);
+}
+
+.contract-steps__grid {
+  max-width: 700px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.contract-step {
+  display: flex;
+  gap: 24px;
+  position: relative;
+}
+
+.contract-step__connector {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.contract-step__number {
+  width: 44px;
+  height: 44px;
+  border-radius: var(--radius-full);
+  background: var(--gradient-accent);
+  color: white;
+  font-weight: 700;
+  font-size: var(--font-size-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+
+.contract-step__line {
+  width: 2px;
+  flex: 1;
+  background: var(--color-border);
+  min-height: 40px;
+}
+
+.contract-step__content {
+  padding: 4px 0 40px;
+}
+
+.contract-step__icon {
+  font-size: 28px;
+  display: block;
+  margin-bottom: 8px;
+}
+
+.contract-step__title {
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 8px;
+}
+
+.contract-step__desc {
+  font-size: var(--font-size-base);
+  color: var(--color-text-secondary);
+  line-height: 1.7;
+}
+
+/* Protection Cards */
+.contract-protection {
+  background: var(--color-background);
+}
+
+.contract-protection__grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.protection-card {
+  padding: 28px 24px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  transition: all var(--transition-normal);
+}
+
+.protection-card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+  border-color: rgba(255, 107, 53, 0.2);
+}
+
+.protection-card__icon {
+  font-size: 32px;
+  display: block;
+  margin-bottom: 12px;
+}
+
+.protection-card__title {
+  font-size: var(--font-size-lg);
+  font-weight: 700;
+  color: var(--color-primary);
+  margin-bottom: 8px;
+}
+
+.protection-card__desc {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  line-height: 1.7;
+}
+
+@media (max-width: 768px) {
+  .contract-hero__title {
+    font-size: var(--font-size-2xl);
+  }
+
+  .contract-protection__grid {
+    grid-template-columns: 1fr;
+  }
+}

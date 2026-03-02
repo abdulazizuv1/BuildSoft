@@ -1,0 +1,199 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "contract": "Shartnoma",
+    "partnership": "Hamkorlik",
+    "about": "Biz haqimizda",
+    "login": "Kirish",
+    "signup": "Ro'yxatdan o'tish",
+    "createProject": "Loyiha yaratish",
+    "logout": "Chiqish"
+  },
+  "hero": {
+    "title": "BuildSoft",
+    "subtitle": "Uy qurish — oddiy, shaffof va nazorat ostida.",
+    "cta": "Loyiha yaratish"
+  },
+  "advantages": {
+    "sectionTitle": "Bizning afzalliklarimiz",
+    "transparency": {
+      "title": "To'liq shaffoflik",
+      "desc": "Har bir material, mehnat va bosqich uchun batafsil narx ko'rsatilgan real vaqt yangilanadigan smeta."
+    },
+    "monitoring": {
+      "title": "Real vaqt monitoringi",
+      "desc": "Qurilish jarayonini, muddatlarni va byudjetni istalgan joydan foto hisobotlar bilan kuzating."
+    },
+    "protection": {
+      "title": "Moliyaviy himoya",
+      "desc": "Escrow to'lov tizimi pul faqat ish tasdiqlangandan keyin o'tkazilishini ta'minlaydi."
+    },
+    "constructor": {
+      "title": "Aqlli konstruktor",
+      "desc": "Parametrlaringizni tanlang va batafsil smeta bilan bir zumda 3D vizualizatsiya oling."
+    },
+    "optimization": {
+      "title": "AI xarajat optimizatsiyasi",
+      "desc": "Sun'iy intellekt ortiqcha xarajat xavfini aniqlaydi va optimallashtirish taklif qiladi."
+    },
+    "postConstruction": {
+      "title": "Qurilishdan keyingi xizmatlar",
+      "desc": "Interyer dizayn, mebel, sug'urta va uy texnik xizmati — hammasi bitta platformada."
+    }
+  },
+  "partners": {
+    "sectionTitle": "Bizning hamkorlarimiz",
+    "subtitle": "Biz ishlayotgan ishonchli kompaniyalar"
+  },
+  "footer": {
+    "description": "Xususiy uy qurilishining g'oyadan kalit topshirishgacha to'liq siklini qamrab oluvchi raqamli platforma.",
+    "quickLinks": "Tezkor havolalar",
+    "contact": "Aloqa",
+    "followUs": "Bizni kuzating",
+    "rights": "© 2026 BuildSoft. Barcha huquqlar himoyalangan."
+  },
+  "contract": {
+    "title": "Shartnoma hujjatlari",
+    "subtitle": "BuildSoft shartnomalari qanday ishlashi haqida bilishingiz kerak bo'lgan hamma narsa",
+    "howItWorks": "Qanday ishlaydi",
+    "step1Title": "Loyiha kelishuvi",
+    "step1Desc": "Pudratchi tanlangandan so'ng, platformada aniq shartlar, bosqichlar va muddatlar bilan raqamli shartnoma tuziladi.",
+    "step2Title": "Bosqichli to'lovlar",
+    "step2Desc": "To'lovlar qurilish bosqichlariga bo'linadi. Mablag'lar escrow da saqlanadi va har bir bosqich tasdiqlanganidan keyin chiqariladi.",
+    "step3Title": "Sifat kafolati",
+    "step3Desc": "Mustaqil texnik inspektorlar to'lov chiqarilishidan oldin har bir qurilish bosqichini tekshiradi.",
+    "step4Title": "Nizolarni hal qilish",
+    "step4Desc": "BuildSoft neytral vositachi sifatida ishlaydi. Avtomatlashtirilgan jarima shartlari va kompensatsiya modellari ikkala tomonni himoya qiladi.",
+    "protection": "Sizning himoyangiz",
+    "escrowTitle": "Escrow to'lovlari",
+    "escrowDesc": "Pulingiz ish tasdiqlangunga qadar xavfsiz saqlanadi. Tekshirilmagan pudratchilarга oldindan to'lov yo'q.",
+    "penaltyTitle": "Avtomatlashtirilgan jarimalar",
+    "penaltyDesc": "Kechikishlar va chetlanishlar shartnomada belgilangan avtomatik jarima shartlarini ishga tushiradi.",
+    "warrantyTitle": "Sifat kafolati",
+    "warrantyDesc": "Qurilish sifati har bir shartnomada belgilangan kafolat muddatlari bilan ta'minlanadi.",
+    "compensationTitle": "Kechikish kompensatsiyasi",
+    "compensationDesc": "Muddatlar o'tkazib yuborilsa, investitsiyangizni himoya qilish uchun kompensatsiya modellari avtomatik ishga tushadi."
+  },
+  "partnership": {
+    "title": "Hamkorlik",
+    "subtitle": "BuildSoft ga ishonchli qurilish hamkori sifatida qo'shiling",
+    "whyPartner": "Nega biz bilan hamkorlik qilish kerak?",
+    "benefit1Title": "Doimiy buyurtmalar oqimi",
+    "benefit1Desc": "Ishonchli qurilish xizmatlarini izlayotgan tasdiqlangan mijozlarning doimiy oqimiga kirish.",
+    "benefit2Title": "Aniq texnik topshiriq",
+    "benefit2Desc": "Har bir loyiha batafsil texnik talablar bilan keladi — noaniqlik yo'q.",
+    "benefit3Title": "Tezkor bosqichli to'lov",
+    "benefit3Desc": "Escrow tizimimiz orqali har bir tasdiqlangan qurilish bosqichidan keyin tezda to'lov oling.",
+    "benefit4Title": "Obro'ingizni oshiring",
+    "benefit4Desc": "Shaffof reyting tizimimiz orqali ko'proq mijozlarni jalb qiladigan reyting va sharhlar yig'ing.",
+    "formTitle": "Biz bilan bog'laning",
+    "companyName": "Kompaniya nomi",
+    "email": "Email manzili",
+    "phone": "Telefon raqami",
+    "message": "Kompaniyangiz haqida aytib bering",
+    "send": "Xabar yuborish",
+    "sending": "Yuborilmoqda...",
+    "success": "Xabar muvaffaqiyatli yuborildi! Tez orada javob beramiz.",
+    "error": "Xabar yuborilmadi. Iltimos, qayta urinib ko'ring."
+  },
+  "about": {
+    "title": "BuildSoft haqida",
+    "subtitle": "Uylar qurilish usulini o'zgartirish",
+    "missionTitle": "Bizning vazifamiz",
+    "missionDesc": "Uy qurishni taksi buyurtma qilish yoki aviachipta xarid qilish kabi oddiy va tushunarli qilish. Biz xususiy qurilishga to'liq shaffoflik, real vaqt nazorati va moliyaviy xavfsizlik olib kelamiz.",
+    "storyTitle": "Bizning tarix",
+    "storyDesc": "Har yili minglab oilalar uy qurishni boshlaydi. Va deyarli hammasi bir xil muammolarga duch keladi: qurilish davomida narx oshadi, aniq va shaffof smeta yo'q, muddatlar kechikadi va yakuniy natija kutilgandek chiqmaydi. BuildSoft bu muammolarni butunlay hal qilish uchun yaratilgan.",
+    "values": "Bizning qadriyatlarimiz",
+    "value1Title": "Shaffoflik",
+    "value1Desc": "Har bir xarajat, har bir bosqich, har bir material — ko'rinadi va kuzatiladi.",
+    "value2Title": "Nazorat",
+    "value2Desc": "Loyihangizni dunyoning istalgan joyidan real vaqtda kuzatish.",
+    "value3Title": "Himoya",
+    "value3Desc": "Uy egalari va pudratchilarni himoya qiluvchi moliyaviy kafolatlar.",
+    "value4Title": "Innovatsiya",
+    "value4Desc": "AI yordamida optimallashtirish va aqlli uy qurish texnologiyasi.",
+    "statsTitle": "BuildSoft raqamlarda",
+    "stat1": "Boshqarilgan loyihalar",
+    "stat2": "Tasdiqlangan pudratchilar",
+    "stat3": "Xarajat tejash",
+    "stat4": "Mijoz mamnuniyati"
+  },
+  "auth": {
+    "loginTitle": "Xush kelibsiz",
+    "loginSubtitle": "Loyihalaringizni boshqarish uchun tizimga kiring",
+    "signupTitle": "Hisob yaratish",
+    "signupSubtitle": "Orzu qilgan uyingizni qurishni boshlang",
+    "email": "Email manzili",
+    "password": "Parol",
+    "confirmPassword": "Parolni tasdiqlang",
+    "fullName": "To'liq ism",
+    "loginBtn": "Kirish",
+    "signupBtn": "Hisob yaratish",
+    "noAccount": "Hisobingiz yo'qmi?",
+    "hasAccount": "Hisobingiz bormi?",
+    "orContinue": "yoki davom eting",
+    "forgotPassword": "Parolni unutdingizmi?"
+  },
+  "createProject": {
+    "title": "Orzu uyingizni yarating",
+    "subtitle": "Nimani xohlayotganingizni ayting, biz uni hayotga tatbiq etamiz",
+    "howItWorks": "Qanday ishlaydi",
+    "step1": "Xohishlaringizni tavsiflang",
+    "step2": "Bir zumda 3D ko'rinish oling",
+    "step3": "Batafsil smeta ko'ring",
+    "step4": "Tasdiqlangan pudratchilar bilan bog'laning",
+    "formTitle": "Sizning xohishlaringiz",
+    "area": "Maydon (kv.m)",
+    "floors": "Qavatlar soni",
+    "style": "Arxitektura uslubi",
+    "styles": {
+      "modern": "Zamonaviy",
+      "classic": "Klassik",
+      "minimalist": "Minimalist",
+      "traditional": "An'anaviy"
+    },
+    "materials": "Qurilish materiallari",
+    "materialOptions": {
+      "brick": "G'isht",
+      "concrete": "Temir-beton",
+      "wood": "Yog'och",
+      "steel": "Po'lat karkas"
+    },
+    "foundation": "Poydevor turi",
+    "foundationOptions": {
+      "slab": "Plita poydevor",
+      "strip": "Lenta poydevor",
+      "pile": "Svayali poydevor"
+    },
+    "familySize": "Oila a'zolari soni",
+    "energyClass": "Energiya samaradorligi",
+    "energyOptions": {
+      "standard": "Standart",
+      "efficient": "Energiya tejamkor",
+      "passive": "Passiv uy"
+    },
+    "additionalNotes": "Qo'shimcha izohlar",
+    "submit": "3D ko'rinish yaratish",
+    "submitting": "Yaratilmoqda..."
+  },
+  "dashboard": {
+    "title": "Loyiha boshqaruv paneli",
+    "subtitle": "Uy qurilishi jarayonini kuzating",
+    "viewer3d": "3D uy ko'rinishi",
+    "projectOverview": "Loyiha umumiy ko'rinishi",
+    "estimatedCost": "Taxminiy narx",
+    "timeline": "Muddat",
+    "area": "Umumiy maydon",
+    "floors": "Qavatlar",
+    "phases": "Qurilish bosqichlari",
+    "phase1": "Poydevor",
+    "phase2": "Devor va karkas",
+    "phase3": "Tom",
+    "phase4": "Muhandislik tizimlari",
+    "phase5": "Ichki bezak",
+    "budget": "Byudjet kuzatuvi",
+    "planned": "Rejalashtirilgan",
+    "actual": "Haqiqiy",
+    "months": "oy"
+  }
+}
