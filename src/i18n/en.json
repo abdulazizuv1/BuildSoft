@@ -174,7 +174,9 @@
     },
     "additionalNotes": "Additional Notes",
     "submit": "Generate 3D Preview",
-    "submitting": "Generating..."
+    "submitting": "Generating...",
+    "livePreview": "Live 3D Preview",
+    "dragToRotate": "Drag to rotate • Scroll to zoom"
   },
   "dashboard": {
     "title": "Project Dashboard",
